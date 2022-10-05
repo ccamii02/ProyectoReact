@@ -1,0 +1,143 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre" : "Motherboard Asus B365M-A",
+        "marca" : "Asus",
+        "precio": 20000,
+        "stock" : 5 ,
+        "img": "placamadre-Asus.jpg",
+        "info1": "-Factor de forma: ATX",
+        "info2": "-Capacidad máxima soportada de la memoria RAM: 64 GB",
+        "info3": "-Tipo de memoria RAM: DDR4"
+        
+        
+
+    },
+
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre": "Motherboard Asus Prime A320M-K",
+        "marca": "Asus",
+        "precio": 30000,
+        "stock": 5 ,
+        "img": "placamadre-AsusPrime.jpg",
+        "info1": "-Ranuras de expansión: 2 x PCI Express 2.0 x1",
+        "info2": "-Capacidad máxima soportada de la memoria RAM: 32 GB",
+        "info3": "-Tipo de memoria RAM: DDR4"
+
+    },
+
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "nombre": "Motherboard Asrock Mb Am4 B450",
+        "marca": "ASRock",
+        "precio": 30000,
+        "stock": 5 ,
+        "img": "placamadreAm4B450.jpg",
+        "info1": "-Ranuras de expansión: 4",
+        "info2": "-Capacidad máxima soportada de la memoria RAM: 64 GB",
+        "info3": "-Tipo de memoria RAM: DDR4"
+
+    },
+
+    {
+        "id": 4,
+        "idCategoria": 2,
+        "nombre": "Procesador Ryzen 3-3200 ",
+        "marca": "Ryzen",
+        "precio": 30000,
+        "stock": 5 ,
+        "img": "ryzen3-3200.jpg",
+        "info1": "-Su potencia es de 65 W",
+        "info2": "-Procesador gráfico Radeon Vega 8 Graphics",
+        "info3": "-Soporta memoria RAM DDR4."
+    },
+
+    {
+        "id": 5,
+        "idCategoria": 2,
+        "nombre": "Procesador Ryzen 5-3600 ",
+        "marca": "Ryzen",
+        "precio": 30000,
+        "stock": 5 ,
+        "img": "ryzen5-3600.webp",
+        "info1": "-Su potencia es de 65 W",
+        "info2": "-Memoria caché de 32 MB, rápida y volátil",
+        "info3": "-Soporta memoria RAM DDR4"
+    },
+
+    {
+        "id": 6,
+        "idCategoria": 2,
+        "nombre": "Procesador Ryzen 5-5600 ",
+        "marca": "Ryzen",
+        "precio": 30000,
+        "stock": 5 ,
+        "img": "ryzen5-5600.png",
+        "info1": "-Su potencia es de 65 W",
+        "info2": "-Memoria caché de 32 MB, rápida y volátil",
+        "info3": "-Soporta memoria RAM DDR4"
+    },
+
+    {
+        "id": 7,
+        "idCategoria": 3,
+        "nombre": "Placa De Video GTX 1050TI ",
+        "marca": "Asus",
+        "precio": 30000,
+        "stock": 5 ,
+        "img": "placaGtx1050ti.jpg"
+    },
+
+    {
+        "id": 8,
+        "idCategoria": 3,
+        "nombre": "Placa De Video RTX 2060 ",
+        "marca": "Gigabite",
+        "precio": 30000,
+        "stock": 5 ,
+        "img": "placaRtx2060.jpg"
+    },
+
+    {
+        "id": 9,
+        "idCategoria": 3,
+        "nombre": "Placa De Video RTX 3080 ",
+        "marca": "MSI",
+        "precio": 30000,
+        "stock": 5 ,
+        "img": "placaRTX3080.jpg"
+    },
+    {
+        "id": 10,
+        "idCategoria": 4,
+        "nombre": "Memoria RAM 8GB Kingston ",
+        "marca": "Kingston",
+        "precio": 8000,
+        "stock": 5 ,
+        "img": "memoriaRam-8gb.jpg"
+    },
+    {
+        "id": 11,
+        "idCategoria": 4,
+        "nombre": "Memoria RAM 8GB Kingston ",
+        "marca": "Kingston",
+        "precio": 10000,
+        "stock": 5 ,
+        "img": "memoriaRamFury-8gb.jpg"
+    },
+    {
+        "id": 12,
+        "idCategoria": 4,
+        "nombre": "Memoria RAM 16GB Vengeance ",
+        "marca": "Vengeance",
+        "precio": 30000,
+        "stock": 5 ,
+        "img": "memoria-16gb.jpg"
+    }
+
+]
+    

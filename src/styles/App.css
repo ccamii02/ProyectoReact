@@ -82,6 +82,13 @@ ul li{
 }
 
 
+.card{
+    margin-top: 50px;
+    margin: 50px;
+    display: flex;
+    justify-content:space-evenly ;
+    
+}
 
 
 

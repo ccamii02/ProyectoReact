@@ -1,7 +1,8 @@
 import React from 'react';
+
 import Form from './Form';
 import Menu from './Menu';
-import Carrito from './Carrito';
+import Carrito from '../content/Carrito';
 
 
 const Navbar = () => {
